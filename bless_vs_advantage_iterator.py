@@ -54,7 +54,7 @@ def attackBless(defAC, profBonus, statBonus, weaponDamage):
 profBonus = 2
 statBonus = 4
 weaponDamage = 12
-maxRounds = 5000000
+maxRounds = 50000
 
 #calculation start
 for DefenderAC in range(10,40):
@@ -76,7 +76,7 @@ for DefenderAC in range(10,40):
         blessedAttacks+=1
         blessedTotalDamage+=damageRoll
     #print("Blessed vs " + str(DefenderAC) + " AC:")
-    print("The Blessed attacker did " + str(blessedTotalDamage) + " Total Damage in " + str(blessedHits) + " hits out of " + str(blessedAttacks) + " attempts with " + str(round(blessedCrits, 2)) + " Criticals " + str(round((blessedCrits/blessedHits),3) * 100) + "%!")
+    print("The Blessed attacker did " + str(blessedTotalDamage) + " Total Damage in " + str(blessedHits) + " hits out of " + str(blessedAttacks) + " attempts (" + str(round((blessedHits/blessedAttacks),3) * 100) + "%) with " + str(round(blessedCrits, 2)) + " Criticals " + str(round((blessedCrits/blessedHits),3) * 100) + "%!")
     print("Average damage of " + str(blessedTotalDamage/blessedAttacks) + " Or " + str(blessedTotalDamage/blessedHits) + " per hit.")
 
 
@@ -95,5 +95,9 @@ for DefenderAC in range(10,40):
         advAttacks+=1
         advTotalDamage+=damageRoll
     #print("Advantaged vs " + str(DefenderAC) + " AC: ===========================")
-    print("The Advantaged attacker did " + str(advTotalDamage) + " Total Damage in " + str(advHits) + " hits out of " + str(advAttacks) + " attempts with " + str(advCrits) + " Criticals "  + str(round((advCrits/advHits),3) * 100) + "%!")
-    print("Average damage of " + str(advTotalDamage/blessedAttacks) + " Or " + str(advTotalDamage/blessedHits) + " per hit.")
+    print("The Advantaged attacker did " + str(advTotalDamage) + " Total Damage in " + str(advHits) + " hits out of " + str(advAttacks) + " attempts (" + str(round((advHits/advAttacks),3) * 100) + "%) with " + str(advCrits) + " Criticals "  + str(round((advCrits/advHits),3) * 100) + "%!")
+    print("Average damage of " + str(advTotalDamage/blessedAttacks) + " Or " + str(advTotalDamage/advHits) + " per hit.")
+    if (blessedTotalDamage > advTotalDamage):
+        print("Blessed Wins! total damage is " + str(round((blessedTotalDamage/advTotalDamage),3) * 100) + "% of Advantage")
+    else:
+        print("Advantage Wins! total damage is " + str(round((advTotalDamage/blessedTotalDamage),3) * 100) + "% of Blessed")
