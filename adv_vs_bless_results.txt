@@ -1,0 +1,240 @@
+=========================================
+============== vs 10 AC =================
+=========================================
+The Blessed attacker did 50837583 Total Damage in 4687224 hits out of 5000000 attempts (93.7%) with 250452 Criticals 5.3%!
+Average damage of 10.1675166 Or 10.845989651870703 per hit.
+The Advantaged attacker did 54492605 Total Damage in 4887635 hits out of 5000000 attempts (97.8%) with 488069 Criticals 10.0%!
+Average damage of 10.898521 Or 11.149074143220597 per hit.
+Advantage Wins! total damage is 107.2% of Blessed
+=========================================
+============== vs 11 AC =================
+=========================================
+The Blessed attacker did 49532988 Total Damage in 4562705 hits out of 5000000 attempts (91.3%) with 250080 Criticals 5.5%!
+Average damage of 9.9065976 Or 10.856057536044956 per hit.
+The Advantaged attacker did 53582649 Total Damage in 4799828 hits out of 5000000 attempts (96.0%) with 488697 Criticals 10.2%!
+Average damage of 10.7165298 Or 11.163451898693037 per hit.
+Advantage Wins! total damage is 108.2% of Blessed
+=========================================
+============== vs 12 AC =================
+=========================================
+The Blessed attacker did 47557089 Total Damage in 4374337 hits out of 5000000 attempts (87.5%) with 249503 Criticals 5.7%!
+Average damage of 9.5114178 Or 10.871839321021676 per hit.
+The Advantaged attacker did 52385428 Total Damage in 4687771 hits out of 5000000 attempts (93.8%) with 487959 Criticals 10.4%!
+Average damage of 10.4770856 Or 11.174911914425854 per hit.
+Advantage Wins! total damage is 110.2% of Blessed
+=========================================
+============== vs 13 AC =================
+=========================================
+The Blessed attacker did 44934321 Total Damage in 4124224 hits out of 5000000 attempts (82.5%) with 250340 Criticals 6.1%!
+Average damage of 8.9868642 Or 10.895218348954858 per hit.
+The Advantaged attacker did 50941339 Total Damage in 4550082 hits out of 5000000 attempts (91.0%) with 488646 Criticals 10.7%!
+Average damage of 10.1882678 Or 11.195696912714979 per hit.
+Advantage Wins! total damage is 113.39999999999999% of Blessed
+=========================================
+============== vs 14 AC =================
+=========================================
+The Blessed attacker did 42290947 Total Damage in 3872594 hits out of 5000000 attempts (77.5%) with 250118 Criticals 6.5%!
+Average damage of 8.4581894 Or 10.920573393441192 per hit.
+The Advantaged attacker did 49237881 Total Damage in 4387525 hits out of 5000000 attempts (87.8%) with 488313 Criticals 11.1%!
+Average damage of 9.8475762 Or 11.222245115412449 per hit.
+Advantage Wins! total damage is 116.39999999999999% of Blessed
+=========================================
+============== vs 15 AC =================
+=========================================
+The Blessed attacker did 39663667 Total Damage in 3622517 hits out of 5000000 attempts (72.5%) with 250185 Criticals 6.9%!
+Average damage of 7.9327334 Or 10.94920106655124 per hit.
+The Advantaged attacker did 47275381 Total Damage in 4200338 hits out of 5000000 attempts (84.0%) with 488047 Criticals 11.600000000000001%!
+Average damage of 9.4550762 Or 11.25513732466292 per hit.
+Advantage Wins! total damage is 119.19999999999999% of Blessed
+=========================================
+============== vs 16 AC =================
+=========================================
+The Blessed attacker did 37074202 Total Damage in 3375611 hits out of 5000000 attempts (67.5%) with 250622 Criticals 7.3999999999999995%!
+Average damage of 7.4148404 Or 10.982960418128748 per hit.
+The Advantaged attacker did 45047390 Total Damage in 3987597 hits out of 5000000 attempts (79.80000000000001%) with 487319 Criticals 12.2%!
+Average damage of 9.009478 Or 11.296876289153593 per hit.
+Advantage Wins! total damage is 121.50000000000001% of Blessed
+=========================================
+============== vs 17 AC =================
+=========================================
+The Blessed attacker did 34428658 Total Damage in 3124528 hits out of 5000000 attempts (62.5%) with 250052 Criticals 8.0%!
+Average damage of 6.8857316 Or 11.018834844814961 per hit.
+The Advantaged attacker did 42531339 Total Damage in 3749035 hits out of 5000000 attempts (75.0%) with 487563 Criticals 13.0%!
+Average damage of 8.5062678 Or 11.344609746241366 per hit.
+Advantage Wins! total damage is 123.50000000000001% of Blessed
+=========================================
+============== vs 18 AC =================
+=========================================
+The Blessed attacker did 31830781 Total Damage in 2876309 hits out of 5000000 attempts (57.49999999999999%) with 249548 Criticals 8.7%!
+Average damage of 6.3661562 Or 11.066537357425783 per hit.
+The Advantaged attacker did 39795278 Total Damage in 3489315 hits out of 5000000 attempts (69.8%) with 486819 Criticals 14.000000000000002%!
+Average damage of 7.9590556 Or 11.404896949687833 per hit.
+Advantage Wins! total damage is 125.0% of Blessed
+=========================================
+============== vs 19 AC =================
+=========================================
+The Blessed attacker did 29158247 Total Damage in 2622940 hits out of 5000000 attempts (52.5%) with 249554 Criticals 9.5%!
+Average damage of 5.8316494 Or 11.11662752483854 per hit.
+The Advantaged attacker did 36760099 Total Damage in 3199092 hits out of 5000000 attempts (64.0%) with 487690 Criticals 15.2%!
+Average damage of 7.3520198 Or 11.490791449573816 per hit.
+Advantage Wins! total damage is 126.1% of Blessed
+=========================================
+============== vs 20 AC =================
+=========================================
+The Blessed attacker did 26573415 Total Damage in 2375880 hits out of 5000000 attempts (47.5%) with 249555 Criticals 10.5%!
+Average damage of 5.314683 Or 11.184662104146675 per hit.
+The Advantaged attacker did 33504545 Total Damage in 2888411 hits out of 5000000 attempts (57.8%) with 487825 Criticals 16.900000000000002%!
+Average damage of 6.700909 Or 11.599645964511284 per hit.
+Advantage Wins! total damage is 126.1% of Blessed
+=========================================
+============== vs 21 AC =================
+=========================================
+The Blessed attacker did 23930397 Total Damage in 2124533 hits out of 5000000 attempts (42.5%) with 250053 Criticals 11.799999999999999%!
+Average damage of 4.7860794 Or 11.26383868831409 per hit.
+The Advantaged attacker did 29945099 Total Damage in 2549362 hits out of 5000000 attempts (51.0%) with 487171 Criticals 19.1%!
+Average damage of 5.9890198 Or 11.746114910318738 per hit.
+Advantage Wins! total damage is 125.1% of Blessed
+=========================================
+============== vs 22 AC =================
+=========================================
+The Blessed attacker did 21328561 Total Damage in 1875890 hits out of 5000000 attempts (37.5%) with 250686 Criticals 13.4%!
+Average damage of 4.2657122 Or 11.369835651344163 per hit.
+The Advantaged attacker did 26142030 Total Damage in 2187055 hits out of 5000000 attempts (43.7%) with 488272 Criticals 22.3%!
+Average damage of 5.228406 Or 11.953073882458375 per hit.
+Advantage Wins! total damage is 122.6% of Blessed
+=========================================
+============== vs 23 AC =================
+=========================================
+The Blessed attacker did 18681322 Total Damage in 1624229 hits out of 5000000 attempts (32.5%) with 248962 Criticals 15.299999999999999%!
+Average damage of 3.7362644 Or 11.501655246889447 per hit.
+The Advantaged attacker did 22079503 Total Damage in 1799787 hits out of 5000000 attempts (36.0%) with 488328 Criticals 27.1%!
+Average damage of 4.4159006 Or 12.267842250221833 per hit.
+Advantage Wins! total damage is 118.19999999999999% of Blessed
+=========================================
+============== vs 24 AC =================
+=========================================
+The Blessed attacker did 16057825 Total Damage in 1374536 hits out of 5000000 attempts (27.500000000000004%) with 249242 Criticals 18.099999999999998%!
+Average damage of 3.211565 Or 11.682360447452814 per hit.
+The Advantaged attacker did 17727652 Total Damage in 1386424 hits out of 5000000 attempts (27.700000000000003%) with 487622 Criticals 35.199999999999996%!
+Average damage of 3.5455304 Or 12.78660207844065 per hit.
+Advantage Wins! total damage is 110.4% of Blessed
+=========================================
+============== vs 25 AC =================
+=========================================
+The Blessed attacker did 13463235 Total Damage in 1127059 hits out of 5000000 attempts (22.5%) with 250124 Criticals 22.2%!
+Average damage of 2.692647 Or 11.945457158853264 per hit.
+The Advantaged attacker did 13137791 Total Damage in 950199 hits out of 5000000 attempts (19.0%) with 487675 Criticals 51.300000000000004%!
+Average damage of 2.6275582 Or 13.826357426181252 per hit.
+Blessed Wins! total damage is 102.49999999999999% of Advantage
+=========================================
+============== vs 26 AC =================
+=========================================
+The Blessed attacker did 10801602 Total Damage in 874054 hits out of 5000000 attempts (17.5%) with 249470 Criticals 28.499999999999996%!
+Average damage of 2.1603204 Or 12.358048816205864 per hit.
+The Advantaged attacker did 8270470 Total Damage in 486610 hits out of 5000000 attempts (9.700000000000001%) with 486610 Criticals 100.0%!
+Average damage of 1.654094 Or 16.99609543576992 per hit.
+Blessed Wins! total damage is 130.6% of Advantage
+=========================================
+============== vs 27 AC =================
+=========================================
+The Blessed attacker did 8178196 Total Damage in 624339 hits out of 5000000 attempts (12.5%) with 249432 Criticals 40.0%!
+Average damage of 1.6356392 Or 13.098967067570662 per hit.
+The Advantaged attacker did 8295750 Total Damage in 487866 hits out of 5000000 attempts (9.8%) with 487866 Criticals 100.0%!
+Average damage of 1.65915 Or 17.004156879143043 per hit.
+Advantage Wins! total damage is 101.4% of Blessed
+=========================================
+============== vs 28 AC =================
+=========================================
+The Blessed attacker did 6235030 Total Damage in 438178 hits out of 5000000 attempts (8.799999999999999%) with 250732 Criticals 57.199999999999996%!
+Average damage of 1.247006 Or 14.229445567782955 per hit.
+The Advantaged attacker did 8293164 Total Damage in 487989 hits out of 5000000 attempts (9.8%) with 487989 Criticals 100.0%!
+Average damage of 1.6586328 Or 16.994571598949975 per hit.
+Advantage Wins! total damage is 133.0% of Blessed
+=========================================
+============== vs 29 AC =================
+=========================================
+The Blessed attacker did 4887848 Total Damage in 311262 hits out of 5000000 attempts (6.2%) with 249155 Criticals 80.0%!
+Average damage of 0.9775696 Or 15.703323887914362 per hit.
+The Advantaged attacker did 8274544 Total Damage in 487189 hits out of 5000000 attempts (9.700000000000001%) with 487189 Criticals 100.0%!
+Average damage of 1.6549088 Or 16.98425867579112 per hit.
+Advantage Wins! total damage is 169.3% of Blessed
+=========================================
+============== vs 30 AC =================
+=========================================
+The Blessed attacker did 4249732 Total Damage in 249928 hits out of 5000000 attempts (5.0%) with 249928 Criticals 100.0%!
+Average damage of 0.8499464 Or 17.003825101629268 per hit.
+The Advantaged attacker did 8275718 Total Damage in 486997 hits out of 5000000 attempts (9.700000000000001%) with 486997 Criticals 100.0%!
+Average damage of 1.6551436 Or 16.99336546221024 per hit.
+Advantage Wins! total damage is 194.70000000000002% of Blessed
+=========================================
+============== vs 31 AC =================
+=========================================
+The Blessed attacker did 4259420 Total Damage in 250703 hits out of 5000000 attempts (5.0%) with 250703 Criticals 100.0%!
+Average damage of 0.851884 Or 16.98990438885853 per hit.
+The Advantaged attacker did 8304511 Total Damage in 488366 hits out of 5000000 attempts (9.8%) with 488366 Criticals 100.0%!
+Average damage of 1.6609022 Or 17.004687058476634 per hit.
+Advantage Wins! total damage is 195.0% of Blessed
+=========================================
+============== vs 32 AC =================
+=========================================
+The Blessed attacker did 4254250 Total Damage in 250376 hits out of 5000000 attempts (5.0%) with 250376 Criticals 100.0%!
+Average damage of 0.85085 Or 16.99144486692015 per hit.
+The Advantaged attacker did 8289028 Total Damage in 487815 hits out of 5000000 attempts (9.8%) with 487815 Criticals 100.0%!
+Average damage of 1.6578056 Or 16.992154812787636 per hit.
+Advantage Wins! total damage is 194.79999999999998% of Blessed
+=========================================
+============== vs 33 AC =================
+=========================================
+The Blessed attacker did 4239435 Total Damage in 249434 hits out of 5000000 attempts (5.0%) with 249434 Criticals 100.0%!
+Average damage of 0.847887 Or 16.996219440814002 per hit.
+The Advantaged attacker did 8285733 Total Damage in 487448 hits out of 5000000 attempts (9.700000000000001%) with 487448 Criticals 100.0%!
+Average damage of 1.6571466 Or 16.99818852472469 per hit.
+Advantage Wins! total damage is 195.4% of Blessed
+=========================================
+============== vs 34 AC =================
+=========================================
+The Blessed attacker did 4254666 Total Damage in 250316 hits out of 5000000 attempts (5.0%) with 250316 Criticals 100.0%!
+Average damage of 0.8509332 Or 16.997179565029803 per hit.
+The Advantaged attacker did 8288132 Total Damage in 487230 hits out of 5000000 attempts (9.700000000000001%) with 487230 Criticals 100.0%!
+Average damage of 1.6576264 Or 17.0107177308458 per hit.
+Advantage Wins! total damage is 194.79999999999998% of Blessed
+=========================================
+============== vs 35 AC =================
+=========================================
+The Blessed attacker did 4257848 Total Damage in 250343 hits out of 5000000 attempts (5.0%) with 250343 Criticals 100.0%!
+Average damage of 0.8515696 Or 17.008056945870266 per hit.
+The Advantaged attacker did 8274021 Total Damage in 486664 hits out of 5000000 attempts (9.700000000000001%) with 486664 Criticals 100.0%!
+Average damage of 1.6548042 Or 17.001506172636564 per hit.
+Advantage Wins! total damage is 194.3% of Blessed
+=========================================
+============== vs 36 AC =================
+=========================================
+The Blessed attacker did 4252651 Total Damage in 250325 hits out of 5000000 attempts (5.0%) with 250325 Criticals 100.0%!
+Average damage of 0.8505302 Or 16.988518925396985 per hit.
+The Advantaged attacker did 8281785 Total Damage in 487077 hits out of 5000000 attempts (9.700000000000001%) with 487077 Criticals 100.0%!
+Average damage of 1.656357 Or 17.003030321694517 per hit.
+Advantage Wins! total damage is 194.70000000000002% of Blessed
+=========================================
+============== vs 37 AC =================
+=========================================
+The Blessed attacker did 4252321 Total Damage in 250197 hits out of 5000000 attempts (5.0%) with 250197 Criticals 100.0%!
+Average damage of 0.8504642 Or 16.99589123770469 per hit.
+The Advantaged attacker did 8274075 Total Damage in 486867 hits out of 5000000 attempts (9.700000000000001%) with 486867 Criticals 100.0%!
+Average damage of 1.654815 Or 16.99452827979715 per hit.
+Advantage Wins! total damage is 194.6% of Blessed
+=========================================
+============== vs 38 AC =================
+=========================================
+The Blessed attacker did 4246113 Total Damage in 249759 hits out of 5000000 attempts (5.0%) with 249759 Criticals 100.0%!
+Average damage of 0.8492226 Or 17.000840810541362 per hit.
+The Advantaged attacker did 8300157 Total Damage in 488219 hits out of 5000000 attempts (9.8%) with 488219 Criticals 100.0%!
+Average damage of 1.6600314 Or 17.000888945329862 per hit.
+Advantage Wins! total damage is 195.5% of Blessed
+=========================================
+============== vs 39 AC =================
+=========================================
+The Blessed attacker did 4255348 Total Damage in 250057 hits out of 5000000 attempts (5.0%) with 250057 Criticals 100.0%!
+Average damage of 0.8510696 Or 17.017512007262344 per hit.
+The Advantaged attacker did 8270278 Total Damage in 486678 hits out of 5000000 attempts (9.700000000000001%) with 486678 Criticals 100.0%!
+Average damage of 1.6540556 Or 16.993326182814922 per hit.
+Advantage Wins! total damage is 194.4% of Blessed
